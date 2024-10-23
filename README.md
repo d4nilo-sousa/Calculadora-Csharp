@@ -22,7 +22,7 @@ Após iniciar a aplicação, você verá a interface da calculadora. Para realiz
 5. Para operações como raiz quadrada, porcentagem ou potência ao quadrado, clique no operador correspondente diretamente após digitar o número.
 
 
-# Trechos do código:#
+# Trechos do código:
 
 ### 1. Construtor e Variáveis Globais
 ```csharp
